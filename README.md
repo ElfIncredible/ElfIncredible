@@ -1,7 +1,7 @@
 [![MasterHead](https://imgs.search.brave.com/xjKbb3ZwTiA3mzRZ250wJ8V4vbZsmBnMk-Q-phAqqRM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzA2LzUxLzA3Lzg3/LzM2MF9GXzY1MTA3/ODc1OV9aaEVCYmxP/aHYzQUJDdWF0Y21l/WnNpOVhyYVpNdENP/WC5qcGc)]
 <h1 align="center">Hi 👋, I'm Granvil Soy</h1>
 <h3 align="center">A passionate Data Scientist from Nairobi, Kenya.</h3>
-<img align="right" alt="Coding" width="400" src="https://imgs.search.brave.com/-9WKxM1sLoBq8WtBqkXj57SfSmfwifhDk_KUQ9y-To4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9yYXcu/Z2l0aHVidXNlcmNv/bnRlbnQuY29tL1Ro/ZUR1ZGVUaGF0Q29k/ZS9UaGVEdWRlVGhh/dENvZGUvbWFzdGVy/L0Fzc2V0cy9EZXNp/Z25lci5naWY.gif">
+<img align="center" alt="Coding" width="400" src="https://imgs.search.brave.com/-9WKxM1sLoBq8WtBqkXj57SfSmfwifhDk_KUQ9y-To4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9yYXcu/Z2l0aHVidXNlcmNv/bnRlbnQuY29tL1Ro/ZUR1ZGVUaGF0Q29k/ZS9UaGVEdWRlVGhh/dENvZGUvbWFzdGVy/L0Fzc2V0cy9EZXNp/Z25lci5naWY.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elfincredible&label=Profile%20views&color=0e75b6&style=flat" alt="elfincredible" /> </p>
 
