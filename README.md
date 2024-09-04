@@ -6,6 +6,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elfincredible&label=Profile%20views&color=0e75b6&style=flat" alt="elfincredible" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elfincredible" alt="elfincredible" /></a> </p>
+As a data science enthusiast, I leverage a wide range of tools and technologies like Python, SQL, Pandas, NumPy, SciPy, Scikit-Learn, TensorFlow, Keras, PyCharm, PyTorch, Excel and Power BI to transform data into actionable insights and strategic decisions. My passion lies in uncovering patterns through data analysis, machine learning, and predictive modeling to drive innovation and real-world impact.
+
+I'm interested in venturing into the field of AI research, using techniques like natural language processing (NLP), Deep Learning and computer vision to push the boundaries of what's possible. Collaboration is key to my approach, and I believe that combining diverse skill sets and perspectives is essential for developing creative, data-driven solutions that benefit society.
+
+Always eager to connect with fellow data science professionals and explore opportunities to make a meaningful impact!
 
 - 🌱 I’m currently learning **SQL, Python(pandas, numpy, scikit-learn)**
 
